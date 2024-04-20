@@ -1,0 +1,32 @@
+body{
+    background-color: brown;
+    font: normal 15px Ariel ;
+}
+h1{
+    text-align: center;
+   color: aliceblue;
+    
+}
+
+section{
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 10px;
+    width: 500px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(66, 63, 63, 0.562);
+    width: auto;
+
+}
+
+div{
+    text-align: center;
+    padding: 8px;
+}
+footer{
+   color: aliceblue;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 100px;
+
+}
