@@ -48,6 +48,10 @@ function  verificar(){
         //idoso M
          img.setAttribute('src', 'fotos/foto-mulhervelha.jpg')
      }
+
+
+     /*res.style.textAlign = 'center' para centralizar sem precisar do css
+     porem esse projeto ja esta centralizado no css*/
      res.innerHTML = `Detectamos ${gênero} com ${idade} Anos.`
      res.appendChild(img)
     
