@@ -1,0 +1,44 @@
+body{
+    background-color: rgba(218, 154, 18, 0.836);
+    font: normal 15px Ariel ;
+}
+h1{
+    text-align: center;
+    
+    
+}
+.gen{
+    text-align: center;
+    font: normal 20px Franklin Gothic Medium ;
+}
+
+
+section{
+    background-color: rgba(158, 92, 89, 0.336);
+    border-radius: 10px;
+    padding: 10px;
+    width: auto;
+    width: 400px;
+    margin: auto;
+    box-shadow: 5px 5px 10px rgba(3, 3, 3, 0.562);
+    text-align: center;
+
+}
+.botao{
+    background-color: rgba(233, 145, 145, 0.308);
+    border-radius: 5px;
+}
+.eeb{border-radius: 5px;
+background-color: rgba(238, 201, 37, 0.507);
+}
+.resu{
+    border-radius: 5px;
+    background-color: rgba(199, 105, 28, 0.555);
+}
+footer{
+   
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: 100px;
+
+}
